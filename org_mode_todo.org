@@ -1,0 +1,15 @@
+#+TITLE: TODO Basics
+#+SEQ_TODO: todo | done
+
+* done Buy Lamp
+:PROPERTIES:
+:CATEGORY: house
+:END:
+* todo Learn LAMP stack
+:PROPERTIES:
+:CATEGORY: computer
+:END:
+* call boss
+SCHEDULED: <2026-11-26 Thu 13:00>
+
+

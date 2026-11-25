@@ -1,0 +1,15 @@
+#+TITLE: Structure and Interpretation of Computer Programs Notes
+#+AUTHOR: Caleb Gasser
+
+* Dogs                                                                :barks:
+:PROPERTIES:
+:category: animal
+:END:
+** Beagle
+** German Shepherd
+* Cats                                                                :meows:
+:PROPERTIES:
+:category: animal
+:END:
+** Blue Hair
+** Siamese
